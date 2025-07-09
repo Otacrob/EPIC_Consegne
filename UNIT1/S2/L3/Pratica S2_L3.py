@@ -8,7 +8,7 @@ while True:
 
         città = input("Scrivimi il nome della tua città natale!: ")
         animale = input("Ora dimmi il nome di uno dei tuoi animali domestici!: ")
-        risultato = f"Il nome per la tua band sarà: {città}{animale}"
+        risultato = f"Il nome per la tua band sarà: {città} {animale}"
         print(risultato)
         break
 
